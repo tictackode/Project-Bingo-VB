@@ -1,0 +1,22 @@
+c:\users\regson\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.vbproj.GenerateResource.Cache
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Bingo.exe.config
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Bingo.exe
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Bingo.pdb
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Bingo.xml
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.Janela.resources
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.Resources.resources
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.exe
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.xml
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Bingo.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\bin\Debug\Bingo.exe.config
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\bin\Debug\Bingo.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\bin\Debug\Bingo.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\bin\Debug\Bingo.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.vbprojAssemblyReference.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.Janela.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.Resources.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.vbproj.GenerateResource.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.vbproj.CoreCompileInputs.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\bingoVB\WindowsApplication5\obj\Debug\Bingo.pdb
